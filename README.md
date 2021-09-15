@@ -5,5 +5,6 @@
 ## 2주차
 - Github 사용법
 - 안드로이드 스튜디오 시작하기
-  <img width="" height="" src="./png/R.jfif"></img>
+  <img width="" height="" src="./png/20173053-이해빈(1).png"></img>
+  <img width="" height="" src="./png/20173053-이해빈(2).png"></img>
 
