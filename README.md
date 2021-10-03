@@ -59,6 +59,6 @@
 
 ## 5주차
   
-  <img width="" height="" src="png/20173053-이해빈.PNG"></img>
+  <img width="" height="" src="./png/20173053-이해빈.PNG"></img>
   
-  <img width="" height="" src="png/20173053-이해빈(0).PNG"></img>
+  <img width="" height="" src="./png/20173053-이해빈(0).PNG"></img>
