@@ -58,6 +58,6 @@
    활용하여 이벤트 진행, 생일 이벤트 등
 
 ## 5주차
-<img width="100" height="200" src="./png/000pic.PNG"></img>
+<img width="200" height="300" src="./png/000pic.PNG"></img>
 
-<img width="100" height="200" src="./png/0pic.PNG"></img>
+<img width="200" height="300" src="./png/0pic.PNG"></img>
