@@ -59,5 +59,8 @@
 
 ## 5주차
 <img width="200" height="300" src="./png/000pic.PNG"></img>
+![000pic](https://user-images.githubusercontent.com/90564834/135760257-00216c15-a5b6-4e2b-9163-0eac5a4f14ec.png)
+
 
 <img width="200" height="300" src="./png/0pic.PNG"></img>
+![0pic](https://user-images.githubusercontent.com/90564834/135760236-4c26407a-1456-444c-b7ce-51c4cbbb6b91.png)
