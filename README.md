@@ -58,6 +58,6 @@
    활용하여 이벤트 진행, 생일 이벤트 등
 
 ## 5주차 과제
-  <img width="" height="" src="./png/20173053_이해빈.PNG"></img>
+  <img width="95" height="150" src="./png/20173053_이해빈.PNG"></img>
   
-  <img width="" height="" src="./png/20173053-이해빈(0).PNG"></img>
+  <img width="95" height="150" src="./png/20173053-이해빈(0).PNG"></img>
