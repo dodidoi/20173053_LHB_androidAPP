@@ -64,3 +64,8 @@
 
 <img width="200" height="300" src="./png/0pic.PNG"></img>
 ![0pic](https://user-images.githubusercontent.com/90564834/135760236-4c26407a-1456-444c-b7ce-51c4cbbb6b91.png)
+
+## 6주차
+<img width="" height="" src="./png/20173053-LHB1.PNG"></img>
+  
+<img width="" height="" src="./png/20173053-LHB2.PNG"></img>
