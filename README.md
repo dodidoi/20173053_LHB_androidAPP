@@ -67,6 +67,5 @@
 
 ## 6주차
 <img width="" height="" src="./png/20173053-LHB1.PNG"></img>
-![LHB1](https://user-images.githubusercontent.com/90564834/135760257-00216c15-a5b6-4e2b-9163-0eac5a4f14ec.png)  
+
 <img width="" height="" src="./png/20173053-LHB2.PNG"></img>
-![LHB2](https://user-images.githubusercontent.com/90564834/135760257-00216c15-a5b6-4e2b-9163-0eac5a4f14ec.png)
